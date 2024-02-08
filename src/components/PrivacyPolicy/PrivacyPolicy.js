@@ -6,7 +6,7 @@ function PrivacyPolicy() {
     <React.Fragment>
     <div className="ppcontent">
     <h2>Privacy Policy</h2>
-    <p className="updatedTime">Last updated on 11-11-2023 17:26:56</p>
+    <p className="updatedTime">Last updated on 08-02-2024 15:41:28</p>
 
     <div className="pp-intro">
     <p>This privacy policy (“Policy”) relates to the manner STARLIGHT FOUNDATION (“we”, “us”, “our”) 

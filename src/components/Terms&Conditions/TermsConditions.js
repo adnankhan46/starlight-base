@@ -6,7 +6,7 @@ function TermsConditions() {
    <React.Fragment>
    <div className="tccontent">
    <h2>Terms & Conditions</h2>
-   <p className="updatedTime">Last updated on 11-11-2023 17:25:42</p>
+   <p className="updatedTime">Last updated on 08-02-2024 15:41:28</p>
 
    <div className="tc-intro">
    <p>These Terms and Conditions, along with privacy policy or other terms (“Terms”) constitute a binding 
